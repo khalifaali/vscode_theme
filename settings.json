@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "sideBar.foreground": "#d5ddf3",
+        "list.inactiveSelectionForeground": "#8cb2f7",
+        "list.activeSelectionForeground": "#8cb2f7",
+        "list.hoverForeground": "#8cb2f7",
+        "editor.foreground":"#95eeee",
+        "tab.inactiveForeground": "#d5ddf3",
+        "tab.activeForeground": "#eff4ff",
+        "editor.background":"#151827",
+        
+       
+    },
+    "editor.tokenColorCustomizations": {
+        "variables":"#d3e3ff",
+        //"comments": "#678afcb4",
+        "comments": "#6afae7a4",
+       
+    }
+}
