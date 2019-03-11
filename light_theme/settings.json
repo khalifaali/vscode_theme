@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "GitHub Plus",
+    "workbench.colorCustomizations": {
+     "editor.background":"#f1f3f8",
+
+     "sideBar.background": "#d5ddf3",
+     "terminal.background": "#ffffff",
+     "activityBar.background": "#ff0000a8"
+    },
+   
+    "editor.tokenColorCustomizations": {
+        "variables":"#0539e4",
+        
+        
+        "functions":{
+            "foreground": "#9420b4"
+
+        },
+        "numbers": "#ff0800",
+        "keywords": "#e00c9a",
+         
+    }
+}
