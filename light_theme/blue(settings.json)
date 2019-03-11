@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.colorCustomizations": {
+     "editor.background":"#f1f3f8",
+
+     "sideBar.background": "#f0f2f8",
+     "terminal.background": "#ffffff",
+     "activityBar.background": "#13b6e7d7"
+     //"#0077ffa8
+    },
+   
+    "editor.tokenColorCustomizations": {
+        "variables":"#0539e4",
+        
+        
+        "functions":{
+            "foreground": "#9420b4"
+
+        },
+        "numbers": "#ff0800",
+        "keywords": "#e00c9a",
+         
+    },
+    "workbench.iconTheme": "ayu",
+    "material-icon-theme.activeIconPack": "angular_ngrx"
+}
